@@ -1,4 +1,4 @@
-FROM toshcn/alpine-base:1.0
+FROM registry.cn-shenzhen.aliyuncs.com/toshcn/alpine-base:1.0
 # thank Adrian B. Danieli - https://github.com/sickp
 LABEL maintainer "By toshcn - https://github.com/toshcn"
 
